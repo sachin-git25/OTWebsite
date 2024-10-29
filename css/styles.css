@@ -1,6 +1,13 @@
+
 body {
-    background-color:blue;
-    color: #fff;
+    background-color:white;
     font-family: 'Oxygen', sans-serif;
-    font-size: 12px;
+    font-size: 16px;
+    color: black;
+}
+#header-nav{
+    background-color: #8eb8ce;
+    border-radius: 0;
+    border:0;
+    height : 100px;
 }
